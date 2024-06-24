@@ -1,7 +1,6 @@
-NAME=house_prices_api
+NAME=udemy-mlops-ecr
 COMMIT_ID=$(shell git rev-parse HEAD)
 PIP_EXTRA_INDEX_URL=https://Zzi76ZMPPyk3donbWkeM:@pypi.fury.io/ANISHAIITR/
-AWS_ACCOUNT_ID=767397669605
 
 
 build-ml-api-heroku:
